@@ -96,6 +96,23 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
       height="40"
     />
   </a>
+    <a href="https://www.oracle.com/br/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/oracle/oracle-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+    </a>
+    <a href="https://www.nginx.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/nginx/nginx-original.svg"
+      alt="ngnix"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ### Find me around the web 🌎:
