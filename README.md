@@ -1,6 +1,13 @@
 
 Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>
 
+<p>
+  <img src="https://media3.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"
+       alt="dino google"
+       width="80"
+       height="80"/>  
+  <span>developer passionate about what he does</span>
+</p>
 
 ### Abstract
 
