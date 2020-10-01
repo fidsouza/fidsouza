@@ -40,10 +40,10 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
       height="40"
     />
   </a>
-  <a href="https://kubernetes.io" target="_blank">
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
+      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg"
+      alt="css"
       width="40"
       height="40"
     />
