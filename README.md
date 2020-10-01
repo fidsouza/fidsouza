@@ -72,6 +72,14 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
       height="40"
     />
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+      alt="MySql"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
