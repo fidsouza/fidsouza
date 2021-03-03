@@ -133,5 +133,5 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/filipe-souza-836a9b26/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://www.instagram.com/ofilipe.code/">Instagram</a>.
+- 🐦 Following me on <a href="https://twitter.com/filipe_code">Twitter</a>.
 
