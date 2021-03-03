@@ -22,7 +22,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
