@@ -30,7 +30,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -41,7 +41,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -49,7 +49,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
       alt="css"
       width="40"
       height="40"
@@ -57,7 +57,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -65,7 +65,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="40"
       height="40"
