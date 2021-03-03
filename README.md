@@ -73,7 +73,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -89,7 +89,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"
       alt="C#"
       width="40"
       height="40"
@@ -97,7 +97,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
@@ -105,7 +105,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
