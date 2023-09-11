@@ -12,7 +12,7 @@ Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time FreeLancer and a searching for a Job Full-Time. 
-- 🌱 I'm constantly learning: **JavaScript , NodeJS , React, Asp.net Core**.
+- 🌱 I'm constantly learning: **JavaScript , NodeJS , Vue, Asp.net, GoLang**.
 - 💙 Interests: Games and Music ꫂ 
 
 ### Languages and Tools
